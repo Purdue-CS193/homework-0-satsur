@@ -1,3 +1,9 @@
+# Satvik Suresh's First CS193 Homework
+My favorite things about CS 193:
+- David and Thiru are pretty chill
+- Class pace is pretty good
+- Homeworks don't take long thus far
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
